@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_MODE_FLAG">SelectedClassesMode</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedClassesMode_SELECTION_FLAG">SocialNetwork,*, UserNode,*, ADS2Graph,*, UserList,*, FriendData,*, UserData,*, </entry>
+<entry key="ACTIVATED_FEATURES">#org.netbeans.modules.profiler.v2.features.MethodsFeature@</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedMethodsMode_SELECTION_FLAG">UserList,insertUser,(Ljava/lang/String;I)V UserNode,getData,()LUserData; UserNode,hasNext,()Z UserList,getUserCount,()I UserList,getUsersAsStrings,()[Ljava/lang/String; UserNode,hasPrev,()Z UserList,getUserIDByName,(Ljava/lang/String;)I UserNode,getPrev,()LUserNode; UserNode,getNext,()LUserNode; UserList,getUser,(I)LUserNode; UserNode,setPrev,(LUserNode;)V UserNode,setNext,(LUserNode;)V UserList,&lt;init&gt;,()V </entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SETTINGS_FLAG">true</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.ObjectsFeature_MODE_FLAG">SelectedClassesMode</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.ObjectsFeature_SelectedClassesMode_SELECTION_FLAG">UserNode,*, UserList,*, </entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MonitorFeature_UI_CPU_GRAPH_FLAG">false</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MonitorFeature_UI_GC_GRAPH_FLAG">false</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.ObjectsFeature_SETTINGS_FLAG">true</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MonitorFeature_UI_THCL_GRAPH_FLAG">false</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedMethodsMode_FILTER_CALLS_FLAG">NO_FILTER</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.ObjectsFeature_SelectedClassesMode_LIMIT_ALLOCATIONS_FLAG">10</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedMethodsMode_OUTGOING_CALLS_FLAG">13</entry>
+</properties>
